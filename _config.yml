@@ -1,7 +1,11 @@
 # Site settings
 title: PHOTORAMA
 email: ""
+<<<<<<< HEAD
 description: "YunGeunSik"
+=======
+description: "Photo Journal"
+>>>>>>> 99db6dc2fa4021ebce2ef9e9f4e1a53be274d91a
 url: "https://pourlui.github.io"
 baseurl: ""
 facebook_username: ""
