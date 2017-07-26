@@ -1,6 +1,6 @@
 # Site settings
 title: pourlui
-email: ""
+email: "pourlui@naver.com"
 n: "pourlui"
 
 url: "https://pourlui.github.io"
@@ -19,7 +19,7 @@ owner:
   name:   YunGeunSik
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info:
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
