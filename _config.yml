@@ -34,9 +34,9 @@ comments :
 
 # Internal nav
 nav:
-  - Test1: "https://sunbliss.github.io/photorama/gallery/"
-  - Test2: "https://sunbliss.github.io/photorama/journal/"
-  - Test3: "https://sunbliss.github.io/photorama/about/"
+  - Test1: ""
+  - Test2: ""
+  - Test3: ""
 
 
 # nav:
